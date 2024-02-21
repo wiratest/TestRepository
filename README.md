@@ -1,2 +1,2 @@
 # TestRepository
-Hanya untuk latihan
+Hanya untuk latihan belaar github pull request
