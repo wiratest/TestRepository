@@ -1,2 +1,2 @@
 # TestRepository
-Hanya untuk latihan belaar github pull request
+Hanya untuk latihan belajar github pull request
